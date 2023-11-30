@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoysAkuma
-- 👀 I’m interested in videogames, robotic, development
-- 🌱 I’m currently learning Flutter and AWS
+- 👀 I’m interested in videogames, programming and learning new tech
+- 🌱 I’m currently learning Microservices
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me moises141294@hotmail.com
 
