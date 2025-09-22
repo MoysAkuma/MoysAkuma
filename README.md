@@ -1,8 +1,12 @@
+## About me
 - 👋 Hi, I’m @MoysAkuma
-- 👀 I’m interested in videogames, programming and learning new tech
-- 🌱 I’m currently learning the boy boys game at devops and creating my frist cloud app.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Videogames, IT & Animation.
+- 🌱 I’m currently learning to create my own systems and tech.
+- 💞️ I’m looking to collaborate on companies who wants to innovate.
 - 📫 How to reach me moises141294@hotmail.com
+  
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moysakuma/)
 
 <!---
 MoysAkuma/MoysAkuma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
