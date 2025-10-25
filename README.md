@@ -1,9 +1,9 @@
 ## About me
 - 👋 Hi, I’m @MoysAkuma
 - 👀 I’m interested in Videogames, IT & Animation.
-- 🌱 I’m currently learning to create my own systems and tech.
+- 🌱 I’m currently learning to cloud and microservice architecture.
 - 💞️ I’m looking to collaborate on companies who wants to innovate.
-- 📫 How to reach me moises141294@hotmail.com
+- 📫 How to reach me moises141294@hotmail.com, moises.moran.dev@gmail.com
   
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moysakuma/)
